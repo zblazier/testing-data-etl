@@ -56,3 +56,23 @@ The output is formatted for compatibility with downstream systems and vendor int
 - Python
 - pandas
 - openpyxl (for Excel input)
+
+- 
+---
+
+## Notes
+
+- This project uses sample or anonymized data only.
+- No real student data is included.
+- Designed to reflect real-world data transformation workflows in education systems.
+
+---
+
+## Purpose
+
+This project is intended to demonstrate:
+
+- ETL pipeline design
+- data transformation logic
+- handling of real-world data inconsistencies
+- preparation of structured outputs for system integration
