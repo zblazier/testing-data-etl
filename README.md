@@ -56,7 +56,3 @@ The output is formatted for compatibility with downstream systems and vendor int
 - Python
 - pandas
 - openpyxl (for Excel input)
-
----
-
-## File Structure
